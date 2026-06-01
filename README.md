@@ -1,8 +1,10 @@
 # Coding Tutorials
 
-A collection of coding tutorials and helpful info.
+A collection of Python tips and pointers for general tasks. Please open an [issue](https://github.com/creativetechnologylab/python-coding-pointers/issues) or send me an email if you'd like to see something added to this.
 
-I'm open to suggestions on what can be added to this.
+## Python Environments
+
+[Installing uv and creating an environment](installing-uv.md)
 
 ## Python Guides
 
