@@ -12,9 +12,9 @@ Guides for common programming tasks.
 
 [Reading All the Files in a Folder with Python](folder-of-files-python.md)  
 [Using the Command Line from a Python Program](command-line-python.md)  
-[Transcribing Microphone Speech](speech-recognition.md)
-[Playing Audio Files](playing-audio.md)
+[Speech Detection and Transcription](speech-recognition.md)
 [Cloning a Voice](voice-cloning.md)
+[Playing Audio Files](playing-audio.md)
 
 ## Good Coding Practices
 
@@ -22,7 +22,7 @@ Advice on how to write clean and readable code.
 
 [Refactoring and Why You Should Do It](refactoring.md)  
 [Tidying Your Python Files with `black` and `isort`](python-black.md)  
-[Setting up a pre-commit File](pre-commit.md)  
+[Setting up a `pre-commit` File](pre-commit.md)  
 
 ## uv
 
